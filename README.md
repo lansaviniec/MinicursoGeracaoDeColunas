@@ -15,7 +15,6 @@ Geração de colunas (DESAULNIERS et al., 2005) é um método para resolver prob
   
   Ao final do minicurso, espera-se que o participante esteja apto a reusar o framework para implementar GC para outros problemas.
 
-
 ### Material:
 
 Os seguintes arquivos estão disponíveis neste repositório:
@@ -28,7 +27,6 @@ pdl.zip : código da implementação de GC para o PDL utilizando o framework pro
 
 pcu.zip : código da implementação de GC para o PCU utilizando o framework proposto.
 
-
 ### Material complementar:
 
 Teoria : uma introdução sucinta sobre geração de colunas, origem e aplicações pode ser encontrado no tutorial "GERAÇÃO DE COLUNAS EM 17.500 CARACTERES" do Professor Doutor José Manuel Valério de Carvalho, disponível em https://goo.gl/gvrocN.
@@ -37,7 +35,6 @@ Cplex : a documentação do pacote de otimização CPLEX pode ser consultada em 
 
 C++ : para programadores iniciantes e interessados em aprender a linguagem C++, recomendamos o tutorial disponível em https://goo.gl/wPMxJ7.
 
-
 ### Instruções:
 
 Para compilar e executar os códigos apresentados, será necessário um computador com um compilador de C/C++ e alguma versão do software CPLEX instalada.
@@ -45,6 +42,14 @@ Para compilar e executar os códigos apresentados, será necessário um computad
 Os usuários de Windows, deverão usar alguma interface que faça a ligação das bibliotecas do CPLEX na compilação do código (Visual Studio, Code::Blocks, etc).
 
 Para usuários de Linux, disponibilizamos um arquivo de compilação (makefile). Assumimos que o caminho de instalação do CPLEX é o padrão, e utilizamos a versão 12.6 do software (o que pode ser facilmente alterado como documentado no arquivo).
+
+### Referências
+
+1) BAZARAA, M. S.; JARVIS, J. J.; SHERALI, H. D. Linear Programming and Network Flows. 4th. ed. [S.l.]:
+Wiley-Interscience, 2010. ISBN 9780470462720.
+
+2) DESAULNIERS, G.; DESROSIERS, J.; SOLOMON, M. M. Column generation. 1st. ed. [S.l.]: Springer Science &
+Business Media, 2005. v. 5.
 
 ---
 
