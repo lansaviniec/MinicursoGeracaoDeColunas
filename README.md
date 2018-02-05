@@ -19,7 +19,7 @@ Geração de colunas (DESAULNIERS et al., 2005) é um método para resolver prob
 
 Os seguintes arquivos estão disponíveis neste repositório:
 
-Slides.pdf : slides do curso contendo uma revisão do método de decomposição Dantzig-Wolfe, a estrutura do framework proposto, e a formulação dos dois problemas usados como exemplo.
+slides.pdf : slides do curso contendo uma revisão do método de decomposição Dantzig-Wolfe, a estrutura do framework proposto, e a formulação dos dois problemas usados como exemplo.
 
 framework.cpp : código do framework proposto durante o curso.
 
