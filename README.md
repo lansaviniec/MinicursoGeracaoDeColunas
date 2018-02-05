@@ -1,6 +1,6 @@
 # Minicurso de Geração de Colunas
 
-Material do minicurso "Implementação de geração de colunas usando CPLEX em linguagem C/C++", ministrado no Instituto de Ciências Matemáticas e de Computação da Universidade de São Paulo nos dia 01 e 02 de fevereiro de 2018.
+Material do minicurso "Implementação de geração de colunas usando CPLEX em linguagem C/C++", ministrado no Instituto de Ciências Matemáticas e de Computação da Universidade de São Paulo nos dias 01 e 02 de fevereiro de 2018.
 
 ---
 
