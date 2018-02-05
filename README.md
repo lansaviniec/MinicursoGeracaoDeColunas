@@ -11,7 +11,7 @@ Geração de colunas (DESAULNIERS et al., 2005) é um método para resolver prob
   2) Propomos um framework genérico em C++ para implementação do método de GC.
   3) Mostramos como usar o framework para implementar uma GC para o problema de dimensionamento de lotes capacitado com múltiplos itens (PDL).
   4) Mostramos como usar o framework para implementar a GC para o problema de corte unidimensional (PCU).
-	Ao final do minicurso, espera-se que o participante esteja apto a reusar o framework para implementar GC para outros problemas.
+  Ao final do minicurso, espera-se que o participante esteja apto a reusar o framework para implementar GC para outros problemas.
 
 
 ### Material:
