@@ -52,4 +52,4 @@ Para usuários de Linux, disponibilizamos um arquivo de compilação (makefile).
 
 Dr. Landir Saviniec (UFPR)
 
-Dr. Luiz Henrique Cherri (ODM / USP)
+Dr. Luiz Henrique Cherri (ODM / USP) - www.odmcentral.com
