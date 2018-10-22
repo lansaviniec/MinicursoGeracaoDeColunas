@@ -53,6 +53,7 @@ if(argc != 2){
     
     return 0;
 }
+
 ler_dados(argv[1]);
 
 por:
