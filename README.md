@@ -48,9 +48,13 @@ Para usuários de Linux, disponibilizamos um arquivo de compilação (makefile).
 Para ler um arquivo de dados de entrada diretamente a partir do código, sem precisar passar o nome do arquivo como parâmetro por linha de comando, na função main, substitua o seguinte trecho de código:
 
 if(argc != 2){
+
     std::cout << "Argumento invalido." << std::endl;
+    
     return 0;
+    
 }
+
 ler_dados(argv[1]);
 
 por:
