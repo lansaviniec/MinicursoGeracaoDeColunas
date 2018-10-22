@@ -43,6 +43,24 @@ Os usuários de Windows, deverão usar alguma interface que faça a ligação da
 
 Para usuários de Linux, disponibilizamos um arquivo de compilação (makefile). Assumimos que o caminho de instalação do CPLEX é o padrão, e utilizamos a versão 12.6 do software (o que pode ser facilmente alterado como documentado no arquivo).
 
+### Observação:
+
+Para ler um arquivo de dados de entrada diretamente a partir do código, sem precisar passar o nome do arquivo como parâmetro por linha de comando, na função main, substitua o seguinte trecho de código:
+
+if(argc != 2){
+    std::cout << "Argumento invalido." << std::endl;
+    return 0;
+}
+ler_dados(argv[1]);
+
+por:
+
+ler_dados("nome_do_arquivo.dat");
+
+Por exemplo, para ler o arquivo "instancia1.dat", use:
+
+ler_dados("instancia1.dat");
+
 ### Referências
 
 1) BAZARAA, M. S.; JARVIS, J. J.; SHERALI, H. D. Linear Programming and Network Flows. 4th. ed. [S.l.]:
