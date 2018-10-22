@@ -52,9 +52,7 @@ if(argc != 2){
     std::cout << "Argumento invalido." << std::endl;
     
     return 0;
-    
 }
-
 ler_dados(argv[1]);
 
 por:
